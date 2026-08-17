@@ -39,14 +39,16 @@
 
 ## 能力组合 / Skills
 
-| 思考与研究 | AI 实践 | 执行与表达 |
+| 思考与研究 | 开发与分析 | 执行与表达 |
 | --- | --- | --- |
-| 市场调研 · 用户访谈 · 竞品分析 | 提示词工程 · 基础智能体 · 模型微调认知 | 项目策划 · 跨专业协作 · 内容与视觉表达 |
+| 市场调研 · 用户访谈 · 竞品分析 | Python · JavaScript · HTML · CSS · Stata | 项目策划 · 跨专业协作 · 内容与视觉表达 |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-171717?style=for-the-badge&logo=openai&logoColor=F4C542" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-171717?style=for-the-badge&logo=googlegemini&logoColor=F4C542" alt="Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-171717?style=for-the-badge&logo=deepseek&logoColor=F4C542" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Stata-1F77B4?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
   <img src="https://img.shields.io/badge/Codex-171717?style=for-the-badge&logo=openai&logoColor=F4C542" alt="Codex" />
   <img src="https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=F59E0B" alt="Figma" />
   <img src="https://img.shields.io/badge/Obsidian-171717?style=for-the-badge&logo=obsidian&logoColor=F59E0B" alt="Obsidian" />
