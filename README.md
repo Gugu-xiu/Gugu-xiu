@@ -25,13 +25,13 @@
 
 ## 代表项目 / Featured Work
 
-### 01 · [个人作品集网站](https://github.com/Gugu-xiu/guww0q0xxgu)
+### 01 · 个人作品集网站
 
 记录我的学习成长、项目作品、能力认证与校园实践。项目采用清晰的档案式结构，希望让每一项经历都能看到背景、行动、结果与证据。
 
 `Portfolio` `Project Archive` `HTML` `Visual Storytelling`
 
-### 02 · [绮梦序章 · 白翎之约系列盲盒](https://www.figma.com/design/f2GxNSqkGbVnG6wt9bJzv8/%E6%96%87%E5%88%9B%E4%BA%A7%E5%93%81-%E7%9B%B2%E7%9B%92?node-id=0-1&t=EkWRzaFXCXX0Up5u-0)
+### 02 · 绮梦序章 · 白翎之约系列盲盒
 
 担任三人跨专业团队负责人，负责市场调研、项目统筹与 AI 视觉方向；累计生成、筛选 **200 余张**视觉草案，完成 **12 轮以上**内部迭代，获中国好创意暨全国数字艺术设计大赛**省级三等奖**。
 
