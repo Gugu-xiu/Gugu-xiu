@@ -23,20 +23,6 @@
 - 🎨 关注信息逻辑与视觉表达，使用 Figma、Obsidian 等工具沉淀作品与知识
 - 🌱 目前正在推进设计竞赛与个人作品集建设
 
-## 代表项目 / Featured Work
-
-### 01 · 个人作品集网站
-
-记录我的学习成长、项目作品、能力认证与校园实践。项目采用清晰的档案式结构，希望让每一项经历都能看到背景、行动、结果与证据。
-
-`Portfolio` `Project Archive` `HTML` `Visual Storytelling`
-
-### 02 · 绮梦序章 · 白翎之约系列盲盒
-
-担任三人跨专业团队负责人，负责市场调研、项目统筹与 AI 视觉方向；累计生成、筛选 **200 余张**视觉草案，完成 **12 轮以上**内部迭代，获中国好创意暨全国数字艺术设计大赛**省级三等奖**。
-
-`Project Lead` `Market Research` `AI Visuals` `Figma`
-
 ## 能力组合 / Skills
 
 | 思考与研究 | 开发与分析 | 执行与表达 |
@@ -73,7 +59,6 @@ I want to keep exploring the intersection of **finance, AI, and creative practic
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gugu-xiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4C542&text_color=8B949E&icon_color=F59E0B&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Gugu-xiu&repo=guww0q0xxgu&hide_border=true&bg_color=00000000&title_color=F4C542&text_color=8B949E&icon_color=F59E0B" alt="Featured repository" />
 </div>
 
 ## 联系我 / Connect
@@ -82,7 +67,7 @@ I want to keep exploring the intersection of **finance, AI, and creative practic
 
 <p align="center">
   <a href="mailto:3250521016@stu.xaut.edu.cn"><img src="https://img.shields.io/badge/Email-3250521016%40stu.xaut.edu.cn-F4C542?style=for-the-badge&labelColor=171717" alt="Email" /></a>
-  <a href="https://github.com/Gugu-xiu/guww0q0xxgu"><img src="https://img.shields.io/badge/Portfolio-查看个人作品集-F59E0B?style=for-the-badge&labelColor=171717" alt="Portfolio" /></a>
+  <a href="https://github.com/Gugu-xiu"><img src="https://img.shields.io/badge/GitHub-Gugu--xiu-171717?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" /></a>
 </p>
 
 <div align="center">
