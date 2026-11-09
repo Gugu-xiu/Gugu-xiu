@@ -8,7 +8,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/西安理工大学-金融学本科-F4C542?style=flat-square&labelColor=171717" alt="西安理工大学金融学本科" />
-    <img src="https://img.shields.io/badge/专业排名-1%20%2F%2049-F4C542?style=flat-square&labelColor=171717" alt="专业排名 1 / 49" />
+    <img src="https://img.shields.io/badge/专业排名-2%20%2F%2052-F4C542?style=flat-square&labelColor=171717" alt="专业排名 2 / 52" />
     <img src="https://komarev.com/ghpvc/?username=Gugu-xiu&style=flat-square&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
@@ -17,7 +17,7 @@
 
 > 我喜欢把模糊的想法整理成清晰的路径，再通过调研、协作与迭代，让它真正成为可以展示、验证和继续生长的作品。
 
-- 🎓 西安理工大学金融学本科在读，专业排名 **1 / 49**
+- 🎓 西安理工大学金融学本科在读，专业排名 **2 / 52**
 - 🤖 持续探索提示词工程、智能体、模型微调与 AI 辅助内容创作
 - 🧭 擅长目标拆解、市场调研、项目统筹与跨专业协作
 - 🎨 关注信息逻辑与视觉表达，使用 Figma、Obsidian 等工具沉淀作品与知识
@@ -58,7 +58,7 @@ I want to keep exploring the intersection of **finance, AI, and creative practic
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gugu-xiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4C542&text_color=8B949E&icon_color=F59E0B&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Gugu-xiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4C542&text_color=8B949E&icon_color=F59E0B&rank_icon=github" alt="GitHub stats" />
 </div>
 
 ## 联系我 / Connect
